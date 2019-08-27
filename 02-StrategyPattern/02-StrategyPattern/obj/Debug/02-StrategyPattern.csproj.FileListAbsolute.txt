@@ -1,0 +1,10 @@
+D:\_ruanhaoyu\DesignMode\02-StrategyPattern\02-StrategyPattern\bin\Debug\02-StrategyPattern.exe.config
+D:\_ruanhaoyu\DesignMode\02-StrategyPattern\02-StrategyPattern\bin\Debug\02-StrategyPattern.exe
+D:\_ruanhaoyu\DesignMode\02-StrategyPattern\02-StrategyPattern\bin\Debug\02-StrategyPattern.pdb
+D:\_ruanhaoyu\DesignMode\02-StrategyPattern\02-StrategyPattern\obj\Debug\02-StrategyPattern.csprojAssemblyReference.cache
+D:\_ruanhaoyu\DesignMode\02-StrategyPattern\02-StrategyPattern\obj\Debug\_02_StrategyPattern.Form1.resources
+D:\_ruanhaoyu\DesignMode\02-StrategyPattern\02-StrategyPattern\obj\Debug\_02_StrategyPattern.Properties.Resources.resources
+D:\_ruanhaoyu\DesignMode\02-StrategyPattern\02-StrategyPattern\obj\Debug\02-StrategyPattern.csproj.GenerateResource.cache
+D:\_ruanhaoyu\DesignMode\02-StrategyPattern\02-StrategyPattern\obj\Debug\02-StrategyPattern.csproj.CoreCompileInputs.cache
+D:\_ruanhaoyu\DesignMode\02-StrategyPattern\02-StrategyPattern\obj\Debug\02-StrategyPattern.exe
+D:\_ruanhaoyu\DesignMode\02-StrategyPattern\02-StrategyPattern\obj\Debug\02-StrategyPattern.pdb
